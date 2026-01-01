@@ -1,12 +1,16 @@
 # ML Journey
 
-Computer Science engineering student learning Machine Learning
-through consistent coding and projects.
+I am a Computer Science engineering student learning Machine Learning
+step-by-step with hands-on coding and projects.
 
 ## Structure
-- jan/ : Python, NumPy, Pandas
+- jan/ : Python, NumPy, Pandas, ML fundamentals
 - feb/ : Machine Learning projects
 - mar/ : Deep Learning and deployment
 
-## Goal
-To secure a Machine Learning internship.
+## Tech Stack
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
