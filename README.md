@@ -16,5 +16,5 @@ step-by-step with hands-on coding and projects.
 - Matplotlib
 ## Progress
 - [x] Day 1: Python basics (lists, dicts, loops)
-- [ ] Day 2: Functions and strings
+- [x] Day 2: Functions and strings
 - [ ] Day 3: File handling
