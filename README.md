@@ -18,3 +18,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 1: Python basics (lists, dicts, loops)
 - [x] Day 2: Functions and strings
 - [x] Day 3: File handling
+- [x] Day 4: NumPy basics
