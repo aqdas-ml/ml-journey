@@ -19,3 +19,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 2: Functions and strings
 - [x] Day 3: File handling
 - [x] Day 4: NumPy basics
+- [x] Day 5: Linear algebra with NumPy
