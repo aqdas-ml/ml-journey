@@ -21,3 +21,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 4: NumPy basics
 - [x] Day 5: Linear algebra with NumPy
 - [x] Day 6: Pandas basics and data cleaning
+- [x] Day 7: EDA and data visualization
