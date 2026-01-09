@@ -23,3 +23,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 6: Pandas basics and data cleaning
 - [x] Day 7: EDA and data visualization
 - [x] Day 8: Linear Regression
+- [x] Day 9: Decision Tree Regression
