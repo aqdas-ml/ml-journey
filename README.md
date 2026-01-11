@@ -25,3 +25,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 8: Linear Regression
 - [x] Day 9: Decision Tree Regression
 - [x] Day 10: Multiple Linear Regression
+- [x] Day 11: Feature Engineering and Scaling
