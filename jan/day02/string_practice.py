@@ -3,6 +3,7 @@ print("Uppercase: ", str1.upper())
 
 vowels = "aeiou"
 count = 0
+
 for i in str1.lower():
     if i in vowels:
         count += 1
