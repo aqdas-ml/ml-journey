@@ -4,5 +4,6 @@ with open("sample.txt","w") as file:
 
 with open("sample.txt","r") as file:
     Content = file.read()
+    
 print("File Content:")
 print(Content)
