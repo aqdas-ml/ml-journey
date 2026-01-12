@@ -1,7 +1,6 @@
 items = ["Apple", "Banana", "Apple", "Orange", "Banana", "Apple"]
 
 frequency = {}
-
 for i in items:
     if i in frequency:
         frequency[i] += 1
