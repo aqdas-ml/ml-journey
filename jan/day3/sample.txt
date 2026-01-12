@@ -1,2 +1,0 @@
-Machine Learning starts with strong Python basics.
-This is Day 3 practice.
