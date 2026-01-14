@@ -28,3 +28,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 11: Feature Engineering and Scaling
 - [x] Day 12: Real-world regression pipeline
 - [x] Day 13: Model comparison and bias–variance
+- [x] Day 14: Mini ML project (House Price Prediction)
