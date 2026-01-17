@@ -31,3 +31,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 14: Mini ML project (House Price Prediction)
 - [x] Day 15: Logistic Regression
 - [x] Day 16: Classification metrics and evaluation
+- [x] Day 17: Decision Tree Classifier
