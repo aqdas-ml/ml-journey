@@ -34,3 +34,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 17: Decision Tree Classifier
 - [x] Day 18: Real-world classification pipeline
 - [x] Day 19: Classification model comparison
+- [x] Day 20: Mini Classification Project
