@@ -36,3 +36,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 19: Classification model comparison
 - [x] Day 20: Mini Classification Project
 - [x] Day 21: K-Nearest Neighbors (KNN)
+- [x] Day 22: Cross-Validation
