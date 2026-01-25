@@ -39,3 +39,4 @@ step-by-step with hands-on coding and projects.
 - [x] Day 22: Cross-Validation
 - [x] Day 23: Hyperparameter Tuning
 - [x] Day 24: Random Forest Classifier
+- [x] Day 25: Mini titanic Project
