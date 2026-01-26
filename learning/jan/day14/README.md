@@ -17,3 +17,4 @@ This project predicts house prices using multiple linear regression.
 - Importance of data preparation
 - Role of feature engineering
 - Model evaluation using R² and MSE
+
