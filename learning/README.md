@@ -1,4 +1,4 @@
-# ML Journey
+# Learning Log (Machine Learning)
 
 I am a Computer Science engineering student learning Machine Learning
 step-by-step with hands-on coding and projects.
