@@ -15,3 +15,4 @@ This project predicts whether a customer will churn using classification models.
 ## Outcome
 Logistic regression performed better for generalization,
 making it the preferred model for this problem.
+
