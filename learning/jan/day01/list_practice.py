@@ -1,4 +1,4 @@
-Numbers = [5, 76, 87, 100, 54, 202, 1]
+Numbers = [5, 76, 87, 100, 54, 202, 1, 60]
 
 print(f"Original List :- {Numbers}")
 print(f"Maximum Number :- {max(Numbers)}")
