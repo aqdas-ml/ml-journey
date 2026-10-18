@@ -1,4 +1,4 @@
-items = ["Apple", "Banana", "Apple", "Orange", "Banana", "Apple"]
+items = ["Apple", "Banana", "Apple", "Orange", "Banana", "Apple", "Banana", "Orange"]
 
 frequency = {}
 for i in items:
