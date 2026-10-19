@@ -4,7 +4,7 @@ if num < 0:
 elif num > 0:
     print("Positive Number")
 else:
-    print("zero")
+    print("zero (0)")
 
 year = int(input("Enter a year: "))
 
