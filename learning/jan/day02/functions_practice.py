@@ -14,6 +14,6 @@ def factorial(num):
 def max_of_three(a, b, c):
     return max(a, b, c)
 
-print(is_even(5))
+print(is_even(7))
 print(factorial(4))
 print(max_of_three(10,50,20))
