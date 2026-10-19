@@ -1,4 +1,4 @@
-str1 = "machine learning"
+str1 = "Machine learning"
 print("Uppercase: ", str1.upper())
 
 vowels = "aeiou"
