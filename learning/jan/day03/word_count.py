@@ -5,6 +5,7 @@ line_count = len(lines)
 word_count = 0
 
 for line in lines:
+    
     words = line.split()
     word_count += len(words)
     
